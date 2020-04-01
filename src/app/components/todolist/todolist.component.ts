@@ -23,7 +23,7 @@ export class TodolistComponent implements OnInit {
     },
     {
       id: 3,
-      title: 'Commit on GIT',
+      title: 'see HOW to Commit on GIT ',
       completed: false
     }];
   }
